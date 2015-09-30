@@ -1,7 +1,7 @@
 # formbuilder
 
 Form builder for CodeIgniter. Used https://github.com/wallter/codeigniter_bootstrap_form_builder and HMVC.
-For correct operation the library, you need to install HMVC.
+You need to install HMVC for correct work with library.
 
 1. Load Libraries
 ==============
